@@ -1,0 +1,59 @@
+
+.bg-container {
+    background-color: #e6f6ff;
+    font-family: "roboto";
+
+}
+
+.top-portion-card {
+    background-color: #fb4e71;
+
+
+}
+
+.top-left-card {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.top-right-card {
+    padding: 10px;
+
+}
+
+.heading {
+    font-size: 25px;
+    color: #323f4b;
+
+}
+
+.record-card {
+    background-color: #ffffff;
+    padding: 5px: margin:5px;
+}
+
+.center-card1 {
+    padding: 5px;
+}
+
+.center-card2 {
+    padding: 5px;
+}
+
+.videos {
+    margin: 5px;
+}
+
+.font {
+    font-size: 12px;
+}
+
+.button {
+    border-radius: 5px;
+    height: 20px;
+    width: 200px: padding:5px;
+    font-size: 12px;
+
+    color: #ffffff;
+}
+          
